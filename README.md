@@ -20,5 +20,4 @@
   - Godot Engine (Desenvolvimento de Games) 🕹️ 
   - Desenvolvimento de sites com PHP e MySQL
 
-![Snake animation](https://github.com/VitorNvs/VitorNvs/blob/output/github-contribution-grid-snake.svg)
  
