@@ -1,4 +1,5 @@
 # Seja Bem-Vindo(a) ao meu perfil no Git Hub!👋
+ <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNvs&layout=compact&langs_count=7&theme=react" />
 ## Sobre mim 👨‍🎓
 <p>Meu nome é Vitor Neves e sou estudante de TI do CEFET/RJ, atualmente cursando o 2º Ano do Ensino Médio. Tenho bastante interesse em desenvolvimento de gamese de aplicações.</p>
 
