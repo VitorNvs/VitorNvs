@@ -19,3 +19,5 @@
   - Automações Web com Python(Selenium) 🌐
   - Godot Engine (Desenvolvimento de Games) 🕹️ 
   - Desenvolvimento de sites com PHP e MySQL
+
+![Snake animation](https://github.com/vitornvs/vitornvs/blob/output/github-contribution-grid-snake.svg)
