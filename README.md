@@ -18,8 +18,7 @@
 </div>
 
 ## O que estou atualmente estudando/aperfeiçoando 📒
-  - Automações Web com Python(Selenium) 🌐
   - Godot Engine (Desenvolvimento de Games) 🕹️ 
-  - Desenvolvimento de sites com PHP e MySQL
+  - Desenvolvimento de sites com PHP e MySQL🌐
 
 ![Snake animation](https://github.com/vitornvs/vitornvs/blob/output/github-contribution-grid-snake.svg)
