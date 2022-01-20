@@ -8,8 +8,12 @@
 ## Ferramentas/Linguagens que já utilizei 🖥️
 <div>
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <p> Python </p>
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <p> HTML </p>
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <p> CSS </p>
+</div> 
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
