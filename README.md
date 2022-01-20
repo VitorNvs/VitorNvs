@@ -4,6 +4,7 @@
 ## Sobre mim 👨‍🎓
 <p>Meu nome é <strong>Vitor Neves</strong> e sou estudante de TI do CEFET/RJ, atualmente cursando o 2º Ano do Ensino Médio. Pretendo continuar na carreira de Informática.</p>
 
+![Snake animation](https://github.com/vitornvs/vitornvs/blob/output/github-contribution-grid-snake.svg)
 ## Ferramentas/Linguagens que já utilizei 🖥️
 <div>
   <img height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -20,5 +21,3 @@
 ## O que estou atualmente estudando/aperfeiçoando 📒
   - Godot Engine (Desenvolvimento de Games) 🕹️ 
   - Desenvolvimento de sites com PHP e MySQL🌐
-
-![Snake animation](https://github.com/vitornvs/vitornvs/blob/output/github-contribution-grid-snake.svg)
