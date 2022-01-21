@@ -1,5 +1,6 @@
 # Seja Bem-Vindo(a) ao meu perfil no Git Hub!👋
- <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNvs&layout=compact&langs_count=7&theme=react" />
+ <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=17a589&title_color=17a589"/>
+
 
 ## Sobre mim 👨‍🎓
 <p>Meu nome é <strong>Vitor Neves</strong> e sou estudante de TI do CEFET/RJ, atualmente cursando o 2º Ano do Ensino Médio. Pretendo continuar na carreira de Informática.</p>
