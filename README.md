@@ -29,6 +29,6 @@
 </div> 
 
 ## O que estou atualmente estudando/aperfeiçoando 📒
-  - Godot Engine (Desenvolvimento de Games) 🕹️ 
+  - Python Orientado a Objetos e Estrutura de dados 
   - Integração de PHP com MySQL
   - Desenvolvimento de sites com Javascript🌐
