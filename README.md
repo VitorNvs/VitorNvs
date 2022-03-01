@@ -1,5 +1,5 @@
 # Seja Bem-Vindo(a) ao meu perfil no Git Hub!👋
- 
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=17a589&title_color=17a589"/>
 
 <img align="right" height="150" style="border-radius:50px;" src="https://c.tenor.com/YjyN4su14BkAAAAd/persona-futaba.gif">
 
