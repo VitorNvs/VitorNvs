@@ -29,6 +29,5 @@
 </div> 
 
 ## O que estou atualmente estudando/aperfeiçoando 📒
-  - Python Orientado a Objetos e Estrutura de dados 
-  - Integração de PHP com MySQL
-  - Desenvolvimento de sites com Javascript🌐
+  - Versionamento de projetos com Git
+  - Excel
