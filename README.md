@@ -29,5 +29,5 @@
 </div> 
 
 ## O que estou atualmente estudando/aperfeiçoando 📒
-  - Versionamento de projetos com Git
-  - Excel
+  - Front-End (Javascript)
+  - Java
