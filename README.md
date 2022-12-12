@@ -1,4 +1,5 @@
 # Seja Bem-Vindo(a) ao meu perfil no Git Hub!👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("");std::cout+<<+"";System.out.println("");Console.log(""))](https://git.io/typing-svg)
 
 <img align="right" height="150" style="border-radius:50px;" src="https://c.tenor.com/YjyN4su14BkAAAAd/persona-futaba.gif">
 
