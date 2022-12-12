@@ -1,12 +1,9 @@
 # Seja Bem-Vindo(a) ao meu perfil no Git Hub!👋
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=17a589&title_color=17a589"/>
 
 <img align="right" height="150" style="border-radius:50px;" src="https://c.tenor.com/YjyN4su14BkAAAAd/persona-futaba.gif">
 
 ## Sobre mim 👨‍🎓
 <p>Meu nome é <strong>Vitor Neves</strong> e sou estudante de TI do CEFET/RJ, atualmente cursando o 3º Ano do Ensino Médio. Pretendo continuar na carreira de Informática.</p>
-
-![Snake animation](https://github.com/vitornvs/vitornvs/blob/output/github-contribution-grid-snake.svg)
 
 ## Ferramentas/Linguagens que já utilizei 🖥️
 <div>
@@ -31,3 +28,5 @@
 ## O que estou atualmente estudando/aperfeiçoando 📒
   - Front-End (Javascript)
   - Java
+
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=17a589&title_color=17a589"/>
