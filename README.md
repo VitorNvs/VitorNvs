@@ -1,9 +1,9 @@
-# Seja Bem-Vindo(a) ao meu perfil no Git Hub!👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("");std::cout+<<+"";System.out.println("");Console.log(""))](https://git.io/typing-svg)
 
 ## Sobre mim 👨‍🎓
-<p>-Formado em Técnico de Informática no CEFET/RJ</p>
-<p>-Estudante de Ciência da Computação na Universidade Veiga de Almeida (1º Período)</p>
+<p>Formado como Técnico em Informática(CEFET-RJ) e atualmente estudante da graduação em Ciência da Computação(CEFET-RJ)</p>
+<p>Faço parte da equipe de extensão Venturi Aerodesign, onde atuo tanto nas áreas de Desempenho e Motopropulsão quanto de Integração de Projetos</p>
 
 ## Ferramentas/Linguagens que já utilizei 🖥️
 <div>
@@ -13,7 +13,8 @@
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python 
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS
-  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> Bootstrap
+  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> Bootstrap
+  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Java 
   </h4>
   
   ### Básico
@@ -22,10 +23,11 @@
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySQL
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> Jupyter
+  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /> MatLab
   </h4>
 </div> 
 
-## O que estou atualmente estudando/aperfeiçoando 📒
-  - Front-End (Javascript)
-
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=17a589&title_color=17a589"/>
+## Atualmente estudando 📒
+  - Cálculos de desempenho de voo em Matlab
+  - Simulações de dinâmica de voo em Python
+  - Desenvolvimento de ferramentas para sistemas Linux em C
