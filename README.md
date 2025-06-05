@@ -10,6 +10,8 @@
  
   ### Intermediário
   <h4>
+   
+  <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> C        
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python 
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML
   <img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS
@@ -28,6 +30,5 @@
 </div> 
 
 ## Atualmente estudando 📒
-  - Cálculos de desempenho de voo em Matlab
-  - Simulações de dinâmica de voo em Python
-  - Desenvolvimento de ferramentas para sistemas Linux em C
+  - Redes de computadores e Segurança da informação
+  - Estruturação de arquivos
