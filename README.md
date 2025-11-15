@@ -28,5 +28,6 @@
 </div> 
 
 ## Atualmente estudando 📒
-  - Redes de computadores e Segurança da informação
-  - Estruturação de arquivos
+  - Implementação de redes neurais em Python
+  - Programação em LUA
+  - Desenvolvimento web com REACT e MongoDB
