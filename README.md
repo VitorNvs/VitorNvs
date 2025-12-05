@@ -29,5 +29,4 @@
 
 ## Atualmente estudando 📒
   - Implementação de redes neurais em Python
-  - Programação em LUA
   - Desenvolvimento web com REACT e MongoDB
