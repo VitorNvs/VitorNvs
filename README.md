@@ -3,7 +3,6 @@
 
 ## Sobre mim 👨‍🎓
 <p>Formado como Técnico em Informática(CEFET-RJ) e atualmente estudante da graduação em Ciência da Computação(CEFET-RJ)</p>
-<p>Faço parte da equipe de extensão Venturi Aerodesign, onde atuo tanto nas áreas de Desempenho e Motopropulsão quanto de Integração de Projetos</p>
 
 ## Ferramentas/Linguagens que já utilizei 🖥️
 <div>
@@ -35,4 +34,4 @@
 
 ## Atualmente estudando 📒
   - Implementação de redes neurais em Python
-  - Desenvolvimento web com REACT e MongoDB
+  - Estatística
